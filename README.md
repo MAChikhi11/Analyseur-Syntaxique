@@ -1,2 +1,2 @@
 # Projet-Theorie-des-langages
-c'est un programme paramétré qui, étant donné un mot quelconque en entrée, vérifie si ce mot appartient au langage L(G). On supposera que ce mot est lexicalement correct (développé avec java)
+Implémentation d'algorithmes pour appliquer des opérations sur des mots (Manipulation et opérations sur les mots, générateur de tous les mots d'un langage, Analyseur syntaxique ... etc.)
